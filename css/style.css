@@ -26,7 +26,7 @@ body {
 
 .navbar-custom .navbar-brand {
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   line-height: 100%;
   color: inherit;
 }
@@ -112,26 +112,23 @@ body {
 }
 
 .work-card {
-  height: 70vh;
-  color: #000000;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  transition: none !important;
-}
-
-.work-card:hover {
-  background-image: inherit !important;
-}
-
-.work .card-bg-1-4 {
-  background-image: url(../../assets/work-card-bg-1-4.png);
-}
-
-.work .card-bg-2-5 {
-  background-image: url(../../assets/work-card-bg-2-5.png);
-}
-
-.work .card-bg-3-6 {
-  background-image: url(../../assets/work-card-bg-3-6.png);
-}
+    height: 70vh;
+    color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: none !important;
+  }
+  
+  .work .card-bg-1-4 {
+    background-image: url(../../assets/work-card-bg-1-4.png);
+  }
+  
+  .work .card-bg-2-5 {
+    background-image: url(../../assets/work-card-bg-2-5.png);
+  }
+  
+  .work .card-bg-3-6 {
+    background-image: url(../../assets/work-card-bg-3-6.png);
+  }
+  
